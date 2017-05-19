@@ -1,0 +1,60 @@
+body {
+    background: #329a9a;
+}
+
+.signup {
+    background: #e1e8ed;
+    height: 500px;
+    width: 600px;
+    text-align: center;
+    margin-left: 700px;
+    margin-top: 200px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.signup input {
+background-color: #f9fafa;
+border-color: #d4d9dd;
+transition: .2s;
+margin: 20px;
+padding: .75rem 9rem;
+text-align: center;
+outline: none;
+border: 2px solid #d4d9dd;
+border-radius: 4px;
+box-shadow: 0;
+box-sizing: border-box;
+color: #40484a;
+font-family: 'Montserrat', sans-serif;
+}
+
+.banner {
+    background-color: #257273;
+    border-radius: 5px 5px 0 0;
+    text-align: center;
+    font-weight: 500;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+.signup button {
+    background-color: #329a9a;
+    border: solid 2px #329a9a;
+    font-size: 16px;
+    height: 52px;
+    line-height: 48px;
+    padding: 0 150px;
+    margin-top: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+#loginemail {
+    margin-top: 75px;
+}
+
+#emailsubmit {
+    margin-top: 120px;
+}
